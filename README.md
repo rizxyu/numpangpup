@@ -1,6 +1,6 @@
 **Deploy dulu baru di tes**<br>
 Deploy ke heroku harus lewat tombol ungu<br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/frmdeveloper/numpangpup)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/rizxyu/numpangpup)
 
 ___
 **Fungsi:** Numpang/kontol puppeteer dari perangkat lain<br>
